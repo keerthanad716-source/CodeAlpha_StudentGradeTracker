@@ -202,17 +202,6 @@ The application compares all student marks and identifies the highest mark.
 
 The application compares all student marks and identifies the lowest mark.
 
-## 🔄 CRUD Operations
-
-The application supports basic CRUD operations:
-
-| Operation | Feature |
-|-----------|---------|
-| Create | Add Student |
-| Read | View / Search Student |
-| Update | Update Student |
-| Delete | Delete Student |
-
 ## 🧪 Sample Output
 Enter your choice: 1
 Enter Student ID: 101
