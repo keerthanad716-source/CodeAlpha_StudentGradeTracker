@@ -66,14 +66,6 @@ The application allows users to add, view, search, update, and delete student re
 
 ## 📂 Project Structure
 
-text
-CodeAlpha_StudentGradeTracker
-│
-├── Student.java
-├── GradeTracker.java
-├── Main.java
-└── README.md
-
 ### Student.java
 
 The Student class represents an individual student.
@@ -145,10 +137,8 @@ Run:
 java Main
 
 ## 📋 Application Menu
-================================
-      STUDENT GRADE TRACKER
-================================
 
+      STUDENT GRADE TRACKER
 1. Add Student
 2. View Students
 3. Search Student
